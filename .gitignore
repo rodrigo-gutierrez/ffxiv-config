@@ -1,0 +1,29 @@
+# Client config
+FFXIV.cfg
+FFXIV_BOOT.cfg
+
+# Downloads and Screenshots
+downloads/
+screenshots/
+
+# Character logs
+*/log/
+
+# Other characters
+FFXIV_CHR004000174BFE619C/*
+FFXIV_CHR004000174C00F253/*
+FFXIV_CHR004000174C19FA23/*
+
+# except
+!*/GEARSET.DAT
+
+# OLD files
+*.OLD
+
+# Specific character changes
+*/ADDON.DAT
+*/ACQ.DAT
+*/ITEMODR.DAT
+
+# Mac
+.DS_Store
