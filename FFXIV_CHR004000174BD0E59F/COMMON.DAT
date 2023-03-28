@@ -26,6 +26,7 @@ LockonDefaultZoom	6.000000
 CameraProductionOfAction	1
 FPSCameraInterpolationType	1
 FPSCameraVerticalInterpolation	0
+LegacyCameraCorrectionFix	0
 LegacyCameraType	1
 EventCameraAutoControl	1
 CameraLookBlinkType	0
@@ -46,6 +47,9 @@ GroundTargetCursorCorrectType	0
 GroundTargetActionExcuteType	0
 AutoNearestTarget	0
 AutoNearestTargetType	0
+RightClickExclusionPC	0
+RightClickExclusionBNPC	0
+RightClickExclusionMinion	0
 TurnSpeed	50
 FootEffect	0
 LegacySeal	1
@@ -69,6 +73,7 @@ ActiveLS_L	132108
 HotbarLock	1
 HotbarDispRecastTime	1
 HotbarCrossContentsActionEnableInput	1
+HotbarDispRecastTimeDispType	0
 ExHotbarChangeHotbar1	1
 HotbarCommon01	0
 HotbarCommon02	0
@@ -267,6 +272,7 @@ NamePlateDispSize	0
 ActiveInfo	0
 PartyList	0
 PartyListStatus	5
+PartyListStatusTimer	1
 EnemyList	0
 TargetInfo	0
 Gil	0
@@ -350,7 +356,7 @@ LogPermeationRateLog4	50
 LogFlyingHeightMaxErrDisp	0
 LogCrossWorldName	1
 LogDragResize	1
-ChatType	6
+ChatType	2
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
@@ -445,6 +451,10 @@ ContentsFinderUseLangTypeFR	0
 ItemInventryWindowSizeType	1
 ItemInventryRetainerWindowSizeType	1
 BattleTalkShowFace	1
+BannerContentsDispType	1
+BannerContentsNotice	1
+MipDispType	1
+BannerContentsOrderType	0
 EmoteTextType	1
 IsEmoteSe	0
 EmoteSeType	0
