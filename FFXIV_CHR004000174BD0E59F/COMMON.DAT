@@ -43,10 +43,10 @@ GroundTargetTPSPosY	45000
 TargetDisableAnchor	0
 TargetCircleClickFilterEnableNearestCursor	0
 TargetEnableMouseOverSelect	0
-GroundTargetCursorCorrectType	0
-GroundTargetActionExcuteType	0
-AutoNearestTarget	0
-AutoNearestTargetType	0
+GroundTargetCursorCorrectType	1
+GroundTargetActionExcuteType	1
+AutoNearestTarget	1
+AutoNearestTargetType	1
 RightClickExclusionPC	0
 RightClickExclusionBNPC	0
 RightClickExclusionMinion	0
@@ -271,7 +271,7 @@ NamePlateHpTypeFeast	2
 NamePlateDispTypeFeastPet	0
 NamePlateHpTypeFeastPet	2
 NamePlateNameTitleTypeFeast	1
-NamePlateDispSize	0
+NamePlateDispSize	3
 NamePlateDispJobIcon	1
 NamePlateDispJobIconType	1
 NamePlateSetRoleColor	1
@@ -283,10 +283,10 @@ NamePlateColorDps	4286545919
 NamePlateEdgeDps	4278190220
 NamePlateColorOtherClass	4291611852
 NamePlateEdgeOtherClass	4278190080
-NamePlateDispWorldTravel	1
+NamePlateDispWorldTravel	0
 ActiveInfo	0
 PartyList	0
-PartyListStatus	5
+PartyListStatus	10
 PartyListStatusTimer	1
 EnemyList	0
 TargetInfo	0
@@ -307,7 +307,7 @@ LogTabFilter1	1
 LogTabFilter2	2
 LogTabFilter3	3
 LogChatFilter	0
-LogEnableErrMsgLv1	1
+LogEnableErrMsgLv1	0
 LogNameType	0
 LogTimeDisp	0
 LogTimeSettingType	1
@@ -355,7 +355,7 @@ LogCwls5	0
 LogCwls6	0
 LogCwls7	0
 LogCwls8	0
-LogRecastActionErrDisp	1
+LogRecastActionErrDisp	0
 LogPermeationRate	50
 LogFontSizeForm	16
 LogItemLinkEnableType	1
@@ -378,7 +378,7 @@ LogColorRoleTank	4287938815
 LogColorRoleHealer	4286642272
 LogColorRoleDPS	4294934399
 LogColorOtherClass	4291611852
-ChatType	1
+ChatType	2
 ShopSell	0
 ColorSay	4294506744
 ColorShout	4294944358
@@ -489,7 +489,7 @@ FriendListSortPriority	1
 FriendListFilterType	0
 FriendListSortType	0
 LetterListFilterType	0
-LetterListSortType	0
+LetterListSortType	3
 ContentsReplayEnable	0
 MouseWheelOperationUp	1
 MouseWheelOperationDown	2
