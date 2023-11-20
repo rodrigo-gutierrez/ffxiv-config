@@ -63,7 +63,7 @@ PhoenixSize	0
 GarudaSize	0
 TitanSize	0
 IfritSize	0
-PetMirageTypeFairy	0
+PetMirageTypeFairy	8
 TimeMode	2
 Time12	0
 TimeEorzea	1
@@ -165,6 +165,7 @@ HotbarWXHBInputOnce	0
 ExHotbarChangeHotbar1IsFashion	1
 HotbarCrossUseExDirectionAutoSwitch	1
 IdlingCameraSwitchType	1
+HotbarXHBEditEnable	1
 PlateType	1
 PlateDispHPBar	1
 PlateDisableMaxHPBar	1
@@ -284,6 +285,10 @@ NamePlateEdgeDps	4278190220
 NamePlateColorOtherClass	4291611852
 NamePlateEdgeOtherClass	4278190080
 NamePlateDispWorldTravel	0
+NamePlateDispJobIconInPublicParty	1
+NamePlateDispJobIconInPublicOther	1
+NamePlateDispJobIconInInstanceParty	1
+NamePlateDispJobIconInInstanceOther	1
 ActiveInfo	0
 PartyList	0
 PartyListStatus	10
@@ -478,6 +483,9 @@ BannerContentsDispType	1
 BannerContentsNotice	1
 MipDispType	1
 BannerContentsOrderType	0
+CCProgressAllyFixLeftSide	0
+CCMapAllyFixLeftSide	0
+DispCCCountDown	1
 EmoteTextType	1
 IsEmoteSe	0
 EmoteSeType	0
@@ -501,5 +509,6 @@ MouseWheelOperationShiftUp	0
 MouseWheelOperationShiftDown	0
 TelepoTicketUseType	3
 TelepoTicketGilSetting	600
+TelepoCategoryType	1
 PvPFrontlinesGCFree	1
  
