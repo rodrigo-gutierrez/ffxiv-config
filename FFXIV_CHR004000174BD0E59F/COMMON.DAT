@@ -63,6 +63,7 @@ PhoenixSize	0
 GarudaSize	0
 TitanSize	0
 IfritSize	0
+SolBahamutSize	0
 PetMirageTypeFairy	8
 TimeMode	2
 Time12	0
@@ -306,7 +307,7 @@ Log	0
 LogTell	0
 LogFontSize	16
 LogTabName2	Event
-LogTabName3	Tijuana
+LogTabName3	Gooners
 LogTabFilter0	0
 LogTabFilter1	1
 LogTabFilter2	2
@@ -508,7 +509,11 @@ MouseWheelOperationAltDown	0
 MouseWheelOperationShiftUp	0
 MouseWheelOperationShiftDown	0
 TelepoTicketUseType	4
-TelepoTicketGilSetting	222
+TelepoTicketGilSetting	354
 TelepoCategoryType	0
+HidePcAroundQuestProgressNpc	0
+HidePcAroundQuestProgressNpcIncludeParty	0
+HidePcAroundNpcAccessingQuest	0
+HidePcAroundNpcAccessingQuestIncludeParty	0
 PvPFrontlinesGCFree	1
  
