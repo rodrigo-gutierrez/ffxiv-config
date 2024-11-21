@@ -1,0 +1,646 @@
+{
+    "targetClass": 37,
+    "hotbar": [
+        [
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16137
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16139
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16145
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16138
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 25760
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16164
+            },
+            null,
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16143
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 313
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 7540
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 7538
+            },
+            null,
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16151
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16146
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16155
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16162
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16144
+            },
+            null,
+            null,
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 7535
+            },
+            {
+                "hotbarType": 8,
+                "hotbarActionId": 14
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16152
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 7537
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 324
+            },
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16141
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16149
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16163
+            },
+            null,
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16159
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 36934
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 354
+            },
+            null,
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 54
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16148
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 7531
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16142
+            },
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16161
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 308
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 316
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16140
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16160
+            },
+            {
+                "hotbarType": 2,
+                "hotbarActionId": 1031893
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 352
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 351
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 64
+            },
+            {
+                "hotbarType": 2,
+                "hotbarActionId": 1039872
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 350
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 7533
+            },
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 77
+            },
+            {
+                "hotbarType": 11,
+                "hotbarActionId": 4
+            },
+            {
+                "hotbarType": 11,
+                "hotbarActionId": 7
+            },
+            {
+                "hotbarType": 11,
+                "hotbarActionId": 2
+            },
+            {
+                "hotbarType": 2,
+                "hotbarActionId": 4868
+            },
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 5
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 6
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 326
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 327
+            },
+            {
+                "hotbarType": 17,
+                "hotbarActionId": 223
+            },
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 2
+            },
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 14
+            },
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            null,
+            null,
+            null,
+            {
+                "hotbarType": 2,
+                "hotbarActionId": 23185
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 75
+            },
+            null,
+            {
+                "hotbarType": 2,
+                "hotbarActionId": 1036115
+            },
+            {
+                "hotbarType": 2,
+                "hotbarActionId": 1038929
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 9
+            },
+            {
+                "hotbarType": 2,
+                "hotbarActionId": 12705
+            },
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 307
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 12
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 13
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 32
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 42
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 62
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 297
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 22
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 23
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 33
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 43
+            },
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 3
+            },
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 63
+            },
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 1
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 73
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 337
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 52
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 53
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 309
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 310
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 304
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 305
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 314
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 315
+            },
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 278
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 35
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 45
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 55
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 65
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 24
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 34
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 44
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 290
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 291
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 292
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 293
+            },
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 259
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 263
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 270
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 271
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 277
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 279
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 281
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 282
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 286
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 287
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 288
+            },
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 289
+            },
+            null,
+            null,
+            null,
+            null
+        ],
+        [
+            null,
+            null,
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 36935
+            },
+            null,
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 7
+            },
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 4
+            },
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 1
+            },
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 8
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16155
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16165
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16163
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16164
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16160
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16161
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16137
+            },
+            {
+                "hotbarType": 1,
+                "hotbarActionId": 16159
+            }
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        [
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 15
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 21
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 12
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 13
+            },
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 7
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 17
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 18
+            },
+            {
+                "hotbarType": 10,
+                "hotbarActionId": 8
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 9
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 7
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 8
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 4
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 10
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 25
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 2
+            },
+            {
+                "hotbarType": 12,
+                "hotbarActionId": 3
+            }
+        ],
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null,
+        null
+    ]
+}
