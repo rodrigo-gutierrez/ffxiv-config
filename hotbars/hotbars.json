@@ -31,10 +31,7 @@
                 "hotbarType": 1,
                 "hotbarActionId": 16143
             },
-            {
-                "hotbarType": 7,
-                "hotbarActionId": 313
-            },
+            null,
             {
                 "hotbarType": 1,
                 "hotbarActionId": 7540
@@ -43,7 +40,10 @@
                 "hotbarType": 1,
                 "hotbarActionId": 7538
             },
-            null,
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 313
+            },
             null,
             null,
             null,
@@ -76,10 +76,7 @@
                 "hotbarType": 1,
                 "hotbarActionId": 7535
             },
-            {
-                "hotbarType": 8,
-                "hotbarActionId": 14
-            },
+            null,
             {
                 "hotbarType": 1,
                 "hotbarActionId": 16152
@@ -124,10 +121,7 @@
                 "hotbarActionId": 354
             },
             null,
-            {
-                "hotbarType": 7,
-                "hotbarActionId": 54
-            },
+            null,
             {
                 "hotbarType": 1,
                 "hotbarActionId": 16148
@@ -166,10 +160,7 @@
                 "hotbarType": 1,
                 "hotbarActionId": 16160
             },
-            {
-                "hotbarType": 2,
-                "hotbarActionId": 1031893
-            },
+            null,
             {
                 "hotbarType": 7,
                 "hotbarActionId": 352
@@ -178,14 +169,8 @@
                 "hotbarType": 7,
                 "hotbarActionId": 351
             },
-            {
-                "hotbarType": 7,
-                "hotbarActionId": 64
-            },
-            {
-                "hotbarType": 2,
-                "hotbarActionId": 1039872
-            },
+            null,
+            null,
             {
                 "hotbarType": 7,
                 "hotbarActionId": 350
@@ -400,36 +385,27 @@
         [
             {
                 "hotbarType": 7,
-                "hotbarActionId": 278
+                "hotbarActionId": 270
             },
             {
                 "hotbarType": 7,
-                "hotbarActionId": 35
+                "hotbarActionId": 271
+            },
+            null,
+            null,
+            {
+                "hotbarType": 7,
+                "hotbarActionId": 281
             },
             {
                 "hotbarType": 7,
-                "hotbarActionId": 45
+                "hotbarActionId": 282
             },
             {
                 "hotbarType": 7,
-                "hotbarActionId": 55
+                "hotbarActionId": 283
             },
-            {
-                "hotbarType": 7,
-                "hotbarActionId": 65
-            },
-            {
-                "hotbarType": 7,
-                "hotbarActionId": 24
-            },
-            {
-                "hotbarType": 7,
-                "hotbarActionId": 34
-            },
-            {
-                "hotbarType": 7,
-                "hotbarActionId": 44
-            },
+            null,
             {
                 "hotbarType": 7,
                 "hotbarActionId": 290
@@ -454,6 +430,10 @@
         [
             {
                 "hotbarType": 7,
+                "hotbarActionId": 258
+            },
+            {
+                "hotbarType": 7,
                 "hotbarActionId": 259
             },
             {
@@ -462,11 +442,11 @@
             },
             {
                 "hotbarType": 7,
-                "hotbarActionId": 270
+                "hotbarActionId": 267
             },
             {
                 "hotbarType": 7,
-                "hotbarActionId": 271
+                "hotbarActionId": 273
             },
             {
                 "hotbarType": 7,
@@ -474,15 +454,11 @@
             },
             {
                 "hotbarType": 7,
+                "hotbarActionId": 278
+            },
+            {
+                "hotbarType": 7,
                 "hotbarActionId": 279
-            },
-            {
-                "hotbarType": 7,
-                "hotbarActionId": 281
-            },
-            {
-                "hotbarType": 7,
-                "hotbarActionId": 282
             },
             {
                 "hotbarType": 7,
