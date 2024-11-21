@@ -50,6 +50,9 @@ AutoNearestTargetType	1
 RightClickExclusionPC	1
 RightClickExclusionBNPC	0
 RightClickExclusionMinion	0
+EnableMoveTiltCharacter	1
+EnableMoveTiltMountGround	1
+EnableMoveTiltMountFly	1
 TurnSpeed	50
 FootEffect	0
 LegacySeal	1
@@ -470,7 +473,7 @@ PartyListSortTypeOther	0
 RatioHpDisp	1
 BuffDispType	0
 ContentsFinderListSortType	0
-ContentsFinderSupplyEnable	0
+ContentsFinderSupplyEnable	1
 EnemyListCastbarEnable	1
 AchievementAppealLoginDisp	0
 ContentsFinderUseLangTypeJA	1
